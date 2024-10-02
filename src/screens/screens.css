@@ -1,0 +1,40 @@
+.image{
+    background-image: url("./blood-donation-3.png");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100vw;
+    margin-top: 55px;
+}
+.donor{
+    /* background-image: url("./OIP.jpeg"); */
+    background-color: brown;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100vw;
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* about css */
+.img{
+    background-image: url("./aboutimg.jpg");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 45px;
+    border-radius: 10px;
+
+   
+}
