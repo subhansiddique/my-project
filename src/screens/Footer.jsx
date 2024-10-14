@@ -51,6 +51,7 @@ const Footer = () => {
         &copy; {new Date().getFullYear()}<span className='text-red-800'> SMIT</span> Blood Bank. All rights reserved.
       </div>
     </footer>
+    // fopter end
   );
 };
 
